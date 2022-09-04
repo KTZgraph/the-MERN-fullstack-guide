@@ -1,5 +1,7 @@
 # the-MERN-fullstack-guide
 
+# BEM CSS konwencja
+
 https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
 # 50
